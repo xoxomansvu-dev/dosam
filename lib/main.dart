@@ -3326,7 +3326,7 @@ class _LearningTabState extends State<LearningTab> {
 }
 
 // ==========================================
-// 3. ВКЛАДКА ДИАЛОГОВ (ОДНА ГЛАВА, БЕЗ ФИЛЬТРА ТЕКСТА)
+// 3. ВКЛАДКА ДИАЛОГОВ (С ЗАПОМИНАНИЕМ ГЛАВЫ)
 // ==========================================
 class DialogsTab extends StatefulWidget {
   final List<dynamic> dialogs;
@@ -3354,6 +3354,7 @@ class _DialogsTabState extends State<DialogsTab> {
   int currentVolume = 1;
   int currentPart = 1;
   int selectedChapter = 1;
+  bool _isFilterLoaded = false;
 
   int _safeNum(dynamic v) {
     if (v is int) return v;
@@ -3363,7 +3364,30 @@ class _DialogsTabState extends State<DialogsTab> {
   @override
   void initState() {
     super.initState();
+    _loadSavedChapterPreferences();
+  }
+
+  Future<void> _loadSavedChapterPreferences() async {
+    final prefs = await SharedPreferences.getInstance();
+    final savedVol = prefs.getInt('last_dialog_volume');
+    final savedPart = prefs.getInt('last_dialog_part');
+    final savedChap = prefs.getInt('last_dialog_chapter');
+
+    if (savedVol != null) currentVolume = savedVol;
+    if (savedPart != null) currentPart = savedPart;
+    if (savedChap != null) selectedChapter = savedChap;
+
     _recalculateFilters();
+    setState(() {
+      _isFilterLoaded = true;
+    });
+  }
+
+  Future<void> _saveCurrentFilters() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('last_dialog_volume', currentVolume);
+    await prefs.setInt('last_dialog_part', currentPart);
+    await prefs.setInt('last_dialog_chapter', selectedChapter);
   }
 
   void _recalculateFilters() {
@@ -3379,6 +3403,7 @@ class _DialogsTabState extends State<DialogsTab> {
     if (!availableChapters.contains(selectedChapter) &&
         availableChapters.isNotEmpty) {
       selectedChapter = availableChapters.first;
+      _saveCurrentFilters();
     }
   }
 
@@ -3418,6 +3443,7 @@ class _DialogsTabState extends State<DialogsTab> {
                     setState(() {
                       selectedChapter = chap;
                     });
+                    _saveCurrentFilters();
                     Navigator.pop(ctx);
                   },
                 );
@@ -3438,6 +3464,12 @@ class _DialogsTabState extends State<DialogsTab> {
 
   @override
   Widget build(BuildContext context) {
+    if (!_isFilterLoaded) {
+      return const Center(
+        child: CircularProgressIndicator(color: AppColors.primaryGreen),
+      );
+    }
+
     final availableParts = widget.dialogs
         .where((d) => _safeNum(d['volume']) == currentVolume)
         .map((d) => _safeNum(d['part']))
@@ -3506,6 +3538,7 @@ class _DialogsTabState extends State<DialogsTab> {
                             currentVolume = vol;
                             _recalculateFilters();
                           });
+                          _saveCurrentFilters();
                         },
                         style: FilledButton.styleFrom(
                           backgroundColor: isSelected
@@ -3545,6 +3578,7 @@ class _DialogsTabState extends State<DialogsTab> {
                             currentPart = part;
                             _recalculateFilters();
                           });
+                          _saveCurrentFilters();
                         },
                         style: FilledButton.styleFrom(
                           backgroundColor: isSelected
@@ -3566,7 +3600,7 @@ class _DialogsTabState extends State<DialogsTab> {
               ),
               const SizedBox(height: 10),
               SizedBox(
-                width: double.infinity,
+                width: double.maxFinite,
                 child: OutlinedButton.icon(
                   onPressed: availableChapters.isEmpty
                       ? null
@@ -5457,7 +5491,7 @@ class _DictionaryEditorScreenState extends State<DictionaryEditorScreen> {
 }
 
 // ==========================================
-// ДИАЛОГ РЕДАКТИРОВАНИЯ СЛОВА
+// ДИАЛОГ РЕДАКТИРОВАНИЯ СЛОВА (ОБЯЗАТЕЛЬНЫЕ ПОЛЯ)
 // ==========================================
 class WordEditorDialog extends StatefulWidget {
   final Map<String, dynamic>? existingWord;
@@ -5515,7 +5549,7 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
     chapter = _safeInt(word?['chapter'], 1);
     isNoun = word?['isNoun'] ?? true;
 
-    _dropdownTitles = ['', ...widget.availableDialogTitles];
+    _dropdownTitles = List.from(widget.availableDialogTitles);
 
     _arabicWordOptions = widget.allWords
         .map((w) => w['arabic']?.toString().trim() ?? '')
@@ -5532,7 +5566,7 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
       _dropdownTitles.add(existingTitle);
     }
 
-    selectedTextTitle = existingTitle.isNotEmpty ? existingTitle : '';
+    selectedTextTitle = existingTitle.isNotEmpty ? existingTitle : null;
 
     arabicCtrl.text = (isNoun && word?['pluralForm'] == null && word != null)
         ? (word['arabic']?.toString() ?? '')
@@ -5579,7 +5613,7 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
       "arabic": baseArabic,
       "translation": translationCtrl.text.trim(),
       "isNoun": isNoun,
-      "text_title": selectedTextTitle,
+      "text_title": selectedTextTitle?.trim() ?? '',
     };
 
     if (widget.existingWord != null && widget.existingWord!['id'] != null) {
@@ -5645,7 +5679,7 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
         title: const Text('Подтверждение'),
         content: Text(isEdit
             ? 'Вы действительно хотите обновить это слово в облачной базе?'
-            : 'Вы действительно хотите добавить это слово в облачную базе?'),
+            : 'Вы действительно хотите добавить это слово в облачную базу?'),
         actions: [
           TextButton(
               onPressed: () => Navigator.pop(context, false),
@@ -5682,11 +5716,9 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
                 body: json.encode(payload))
             .timeout(const Duration(seconds: 15));
       } catch (networkError) {
-        // На вебе/Safari ClientException часто срабатывает из-за CORS уже после успешного сохранения в таблице
         print('Web network notice: $networkError');
       }
 
-      // АВТОМАТИЧЕСКАЯ СИНХРОНИЗАЦИЯ БАЗЫ ПОСЛЕ ОТПРАВКИ
       await MainScreen.instance.syncCloudData(showFeedback: false);
 
       if (mounted) {
@@ -5718,8 +5750,7 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
       context: context,
       builder: (context) => AlertDialog(
         title: const Text('Удаление'),
-        content:
-            const Text('Удалить это слово из облака и обновить базу?'),
+        content: const Text('Удалить это слово из облака и обновить базу?'),
         actions: [
           TextButton(
               onPressed: () => Navigator.pop(context, false),
@@ -5752,7 +5783,6 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
         print('Web network notice: $networkError');
       }
 
-      // АВТОМАТИЧЕСКАЯ СИНХРОНИЗАЦИЯ БАЗЫ ПОСЛЕ УДАЛЕНИЯ
       await MainScreen.instance.syncCloudData(showFeedback: false);
 
       if (mounted) {
@@ -5804,52 +5834,64 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
               Row(
                 children: [
                   Expanded(
-                      child: DropdownButtonFormField<int>(
-                          decoration: const InputDecoration(
-                              labelText: 'Том',
-                              contentPadding: EdgeInsets.symmetric(
-                                  horizontal: 8, vertical: 8)),
-                          value: volume,
-                          isExpanded: true,
-                          items: List.generate(maxVolume, (i) => i + 1)
-                              .map((i) =>
-                                  DropdownMenuItem(value: i, child: Text('$i')))
-                              .toList(),
-                          onChanged: (v) => setState(() => volume = v!))),
+                    child: DropdownButtonFormField<int>(
+                      decoration: const InputDecoration(
+                          labelText: 'Том*',
+                          contentPadding: EdgeInsets.symmetric(
+                              horizontal: 8, vertical: 8)),
+                      value: volume,
+                      isExpanded: true,
+                      items: List.generate(maxVolume, (i) => i + 1)
+                          .map((i) =>
+                              DropdownMenuItem(value: i, child: Text('$i')))
+                          .toList(),
+                      onChanged: (v) => setState(() => volume = v!),
+                      validator: (val) =>
+                          val == null ? 'Укажите том' : null,
+                    ),
+                  ),
                   const SizedBox(width: 8),
                   Expanded(
-                      child: DropdownButtonFormField<int>(
-                          decoration: const InputDecoration(
-                              labelText: 'Часть',
-                              contentPadding: EdgeInsets.symmetric(
-                                  horizontal: 8, vertical: 8)),
-                          value: part,
-                          isExpanded: true,
-                          items: List.generate(maxPart, (i) => i + 1)
-                              .map((i) =>
-                                  DropdownMenuItem(value: i, child: Text('$i')))
-                              .toList(),
-                          onChanged: (v) => setState(() => part = v!))),
+                    child: DropdownButtonFormField<int>(
+                      decoration: const InputDecoration(
+                          labelText: 'Часть*',
+                          contentPadding: EdgeInsets.symmetric(
+                              horizontal: 8, vertical: 8)),
+                      value: part,
+                      isExpanded: true,
+                      items: List.generate(maxPart, (i) => i + 1)
+                          .map((i) =>
+                              DropdownMenuItem(value: i, child: Text('$i')))
+                          .toList(),
+                      onChanged: (v) => setState(() => part = v!),
+                      validator: (val) =>
+                          val == null ? 'Укажите часть' : null,
+                    ),
+                  ),
                   const SizedBox(width: 8),
                   Expanded(
-                      child: DropdownButtonFormField<int>(
-                          decoration: const InputDecoration(
-                              labelText: 'Глава',
-                              contentPadding: EdgeInsets.symmetric(
-                                  horizontal: 8, vertical: 8)),
-                          value: chapter,
-                          isExpanded: true,
-                          items: List.generate(maxChapter, (i) => i + 1)
-                              .map((i) =>
-                                  DropdownMenuItem(value: i, child: Text('$i')))
-                              .toList(),
-                          onChanged: (v) => setState(() => chapter = v!))),
+                    child: DropdownButtonFormField<int>(
+                      decoration: const InputDecoration(
+                          labelText: 'Глава*',
+                          contentPadding: EdgeInsets.symmetric(
+                              horizontal: 8, vertical: 8)),
+                      value: chapter,
+                      isExpanded: true,
+                      items: List.generate(maxChapter, (i) => i + 1)
+                          .map((i) =>
+                              DropdownMenuItem(value: i, child: Text('$i')))
+                          .toList(),
+                      onChanged: (v) => setState(() => chapter = v!),
+                      validator: (val) =>
+                          val == null ? 'Укажите главу' : null,
+                    ),
+                  ),
                 ],
               ),
               const SizedBox(height: 16),
               DropdownButtonFormField<String>(
                 decoration: const InputDecoration(
-                    labelText: 'Текст / Диалог',
+                    labelText: 'Текст / Диалог*',
                     border: OutlineInputBorder(),
                     contentPadding:
                         EdgeInsets.symmetric(horizontal: 12, vertical: 12)),
@@ -5858,8 +5900,7 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
                 items: _dropdownTitles.map((String title) {
                   return DropdownMenuItem<String>(
                     value: title,
-                    child: Text(title.isEmpty ? 'Не выбрано' : title,
-                        overflow: TextOverflow.ellipsis),
+                    child: Text(title, overflow: TextOverflow.ellipsis),
                   );
                 }).toList(),
                 onChanged: (String? newValue) {
@@ -5867,6 +5908,9 @@ class _WordEditorDialogState extends State<WordEditorDialog> {
                     selectedTextTitle = newValue;
                   });
                 },
+                validator: (val) => (val == null || val.trim().isEmpty)
+                    ? 'Выберите текст / диалог'
+                    : null,
               ),
               const SizedBox(height: 16),
               Row(
