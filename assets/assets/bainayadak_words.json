@@ -1,0 +1,6167 @@
+{
+  "words": [
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 14,
+      "dialogue": 1,
+      "arabic": "اعْتَمَرَ",
+      "translation": "совершать умру",
+      "isNoun": false,
+      "pastForm": "اعْتَمَرَ",
+      "presentForm": "يَعْتَمِرُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 16,
+      "dialogue": 1,
+      "arabic": "أعطى",
+      "translation": "давать",
+      "isNoun": false,
+      "pastForm": "أعطى",
+      "presentForm": "يعطي"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أَفْضَلُ",
+      "translation": "лучший, предпочтительный",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 13,
+      "dialogue": 1,
+      "arabic": "أقام",
+      "translation": "проживать, находиться",
+      "isNoun": false,
+      "pastForm": "أقام",
+      "presentForm": "يُقِيمُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 13,
+      "dialogue": 1,
+      "arabic": "إقَامَةً طَيِّبَةً",
+      "translation": "приятного пребывания",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 16,
+      "dialogue": 1,
+      "arabic": "اقْتَرَبَ",
+      "translation": "приближаться",
+      "isNoun": false,
+      "pastForm": "اقْتَرَبَ",
+      "presentForm": "يَقْتَرِبُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 5,
+      "dialogue": 1,
+      "arabic": "أكل",
+      "translation": "есть (кушать)",
+      "isNoun": false,
+      "pastForm": "أكل",
+      "presentForm": "يأكل"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "الله",
+      "translation": "Аллах",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "translation": "Аллах велик",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "ألف",
+      "translation": "тысяча",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "ألم",
+      "translation": "боль",
+      "isNoun": true,
+      "pluralForm": "آلام"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "إلى",
+      "translation": "к, до, в",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 6,
+      "dialogue": 1,
+      "arabic": "إلى أين",
+      "translation": "куда",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "أم",
+      "translation": "или (в вопросе)",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 10,
+      "dialogue": 1,
+      "arabic": "أمام",
+      "translation": "перед",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 10,
+      "dialogue": 1,
+      "arabic": "أَمْطَرَ",
+      "translation": "идет дождь",
+      "isNoun": false,
+      "pastForm": "أَمْطَرَ",
+      "presentForm": "تُمْطِرُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 7,
+      "dialogue": 1,
+      "arabic": "الآن",
+      "translation": "сейчас",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 6,
+      "dialogue": 1,
+      "arabic": "إن شاء الله",
+      "translation": "если пожелает Аллах",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أنا",
+      "translation": "я",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أنتَ",
+      "translation": "ты (муж. р.)",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أنتِ",
+      "translation": "ты (жен. р.)",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 6,
+      "dialogue": 1,
+      "arabic": "انْتَظَرَ",
+      "translation": "ждать",
+      "isNoun": false,
+      "pastForm": "انْتَظَرَ",
+      "presentForm": "ينتظر"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 11,
+      "dialogue": 1,
+      "arabic": "انتَقَلَ",
+      "translation": "переезжать",
+      "isNoun": false,
+      "pastForm": "انتَقَلَ",
+      "presentForm": "يَنْتَقِلُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 7,
+      "dialogue": 1,
+      "arabic": "انتهى",
+      "translation": "заканчиваться",
+      "isNoun": false,
+      "pastForm": "انتهى",
+      "presentForm": "يَنْتَهي"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "أنف",
+      "translation": "нос",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 16,
+      "dialogue": 1,
+      "arabic": "أهل",
+      "translation": "семья, родные",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أَهْلاً وَسَهْلاً",
+      "translation": "добро пожаловать",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 12,
+      "dialogue": 1,
+      "arabic": "أهوى",
+      "translation": "я увлекаюсь",
+      "isNoun": false,
+      "pastForm": "أهوى",
+      "presentForm": "أهوى"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 4,
+      "dialogue": 1,
+      "arabic": "أو",
+      "translation": "или",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 4,
+      "dialogue": 1,
+      "arabic": "أول",
+      "translation": "первый",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "أولاد",
+      "translation": "дети, мальчики",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "ارتفاع",
+      "translation": "повышение, высота",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "ارتفع",
+      "translation": "подниматься",
+      "isNoun": false,
+      "pastForm": "ارتفع",
+      "presentForm": "يرتفع"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 5,
+      "dialogue": 1,
+      "arabic": "ارز",
+      "translation": "рис",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 3,
+      "dialogue": 1,
+      "arabic": "أريكة",
+      "translation": "диван",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 11,
+      "dialogue": 1,
+      "arabic": "ازدحام",
+      "translation": "пробка, давка",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أزْرَقُ",
+      "translation": "синий",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 13,
+      "dialogue": 1,
+      "arabic": "أسابيع",
+      "translation": "недели",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 7,
+      "dialogue": 1,
+      "arabic": "أسبوع",
+      "translation": "неделя",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 11,
+      "dialogue": 1,
+      "arabic": "أستاذ",
+      "translation": "преподаватель",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 7,
+      "dialogue": 1,
+      "arabic": "استراحة",
+      "translation": "перемена, отдых",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 6,
+      "dialogue": 1,
+      "arabic": "استطاع",
+      "translation": "мочь",
+      "isNoun": false,
+      "pastForm": "استطاع",
+      "presentForm": "يَسْتَطِيعُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 11,
+      "dialogue": 1,
+      "arabic": "اسْتَغْرَقَ",
+      "translation": "занимать (о времени)",
+      "isNoun": false,
+      "pastForm": "اسْتَغْرَقَ",
+      "presentForm": "يَسْتَعْرِقُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 4,
+      "dialogue": 1,
+      "arabic": "اسْتَيْقَظَ",
+      "translation": "просыпаться",
+      "isNoun": false,
+      "pastForm": "اسْتَيْقَظَ",
+      "presentForm": "يستيقظ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "أسرة",
+      "translation": "семья",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "إسعاف",
+      "translation": "скорая помощь",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 6,
+      "dialogue": 1,
+      "arabic": "آسف",
+      "translation": "сожалеющий (извини)",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 16,
+      "dialogue": 1,
+      "arabic": "الإسلام",
+      "translation": "Ислам",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 12,
+      "dialogue": 1,
+      "arabic": "إسلامية",
+      "translation": "исламская",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "اسم",
+      "translation": "имя",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "أسنان",
+      "translation": "зубы",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 11,
+      "dialogue": 1,
+      "arabic": "أسواق",
+      "translation": "рынки",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أسود",
+      "translation": "черный",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "اشْتَرى",
+      "translation": "покупать",
+      "isNoun": false,
+      "pastForm": "اشْتَرى",
+      "presentForm": "يَشْتَرِي"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 7,
+      "dialogue": 1,
+      "arabic": "أشهر",
+      "translation": "месяцы",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 14,
+      "dialogue": 1,
+      "arabic": "أشواط",
+      "translation": "круги (в тавафе)",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "أصاب",
+      "translation": "поражать",
+      "isNoun": false,
+      "pastForm": "أصاب",
+      "presentForm": "يُصيب"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 11,
+      "dialogue": 1,
+      "arabic": "أصدقاء",
+      "translation": "друзья",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أَصْفَر",
+      "translation": "желтый",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 16,
+      "dialogue": 1,
+      "arabic": "أضحية",
+      "translation": "жертвенное животное",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أَطْبَاقَ",
+      "translation": "тарелки",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 8,
+      "dialogue": 1,
+      "arabic": "أطفال",
+      "translation": "дети",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "أب",
+      "translation": "отец",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "ابن",
+      "translation": "сын",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "ابنة",
+      "translation": "дочь",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 16,
+      "dialogue": 1,
+      "arabic": "أبناء",
+      "translation": "сыновья",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أبْيَضُ",
+      "translation": "белый",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 3,
+      "dialogue": 1,
+      "arabic": "أثاث",
+      "translation": "мебель",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 14,
+      "dialogue": 1,
+      "arabic": "اثنا عشر",
+      "translation": "двенадцать",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 10,
+      "dialogue": 1,
+      "arabic": "اثنان",
+      "translation": "два",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 3,
+      "dialogue": 1,
+      "arabic": "الاثنين",
+      "translation": "понедельник",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أثواب",
+      "translation": "одежда",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 12,
+      "dialogue": 1,
+      "arabic": "أحاديث",
+      "translation": "хадисы",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 8,
+      "dialogue": 1,
+      "arabic": "أَحَبَّ",
+      "translation": "любить",
+      "isNoun": false,
+      "pastForm": "أَحَبَّ",
+      "presentForm": "يُحِبُّ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "الأحد",
+      "translation": "воскресенье",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 14,
+      "dialogue": 1,
+      "arabic": "أَحَدَ عَشَر",
+      "translation": "одиннадцать",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 10,
+      "dialogue": 1,
+      "arabic": "أَحْضَرَ",
+      "translation": "приносить",
+      "isNoun": false,
+      "pastForm": "أَحْضَرَ",
+      "presentForm": "يُحْضِرُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أَحْمَرُ",
+      "translation": "красный",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أخ",
+      "translation": "брат",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أخت",
+      "translation": "сестра",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 12,
+      "dialogue": 1,
+      "arabic": "اختار",
+      "translation": "выбирать",
+      "isNoun": false,
+      "pastForm": "اختار",
+      "presentForm": "يَخْتارُ"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 7,
+      "dialogue": 1,
+      "arabic": "اختبارات",
+      "translation": "экзамены",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "آخر",
+      "translation": "другой",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 9,
+      "dialogue": 1,
+      "arabic": "أخضر",
+      "translation": "зеленый",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 2,
+      "dialogue": 1,
+      "arabic": "أذان",
+      "translation": "азан (призыв)",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "أذن",
+      "translation": "ухо",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 16,
+      "dialogue": 1,
+      "arabic": "إذن",
+      "translation": "следовательно",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 3,
+      "dialogue": 1,
+      "arabic": "أراد",
+      "translation": "хотеть",
+      "isNoun": false,
+      "pastForm": "أراد",
+      "presentForm": "يُريد"
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 3,
+      "dialogue": 1,
+      "arabic": "الأربعاء",
+      "translation": "среда",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 1,
+      "chapter": 1,
+      "dialogue": 1,
+      "arabic": "أَرْبَعَة",
+      "translation": "четыре",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 14,
+      "dialogue": 1,
+      "arabic": "أَرْبَعَةَ عَشَر",
+      "translation": "четырнадцать",
+      "isNoun": true
+    },
+    {
+      "bookVolume": 1,
+      "bookPart": 2,
+      "chapter": 15,
+      "dialogue": 1,
+      "arabic": "أربعون",
+      "translation": "сорок",
+      "isNoun": true
+    },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "بَائِع",
+    "translation": "продавец",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "بَاب",
+    "translation": "дверь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "بَارِد",
+    "translation": "холодный",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "بَارَكَ اللَّهُ فِيكَ",
+    "translation": "да благословит тебя Аллах",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "البَاقِي",
+    "translation": "остаток, сдача",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "بَاكِسْتَانِيّ",
+    "translation": "пакистанец",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "بِجَانِب",
+    "translation": "рядом, возле",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "بَحْر",
+    "translation": "море",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "بِخَيْرٍ",
+    "translation": "в порядке, хорошо",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "بَدَأَ",
+    "translation": "начинать",
+    "isNoun": false,
+    "pastForm": "بَدَأَ",
+    "presentForm": "يَبْدَأُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "بَرّ",
+    "translation": "суша",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "بَرْد",
+    "translation": "холод",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "بَصَل",
+    "translation": "лук",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "بَعْدَ",
+    "translation": "после",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "بَعْض",
+    "translation": "некоторые, часть",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "بَعِيد",
+    "translation": "далекий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "بَقِيَ",
+    "translation": "оставаться",
+    "isNoun": false,
+    "pastForm": "بَقِيَ",
+    "presentForm": "يَبْقَى"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "بِكَم",
+    "translation": "почем, сколько стоит",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "بَلَد",
+    "translation": "страна, город",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "بُنّ",
+    "translation": "кофейные зерна",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "بِنْت",
+    "translation": "девочка, дочь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "بَيْت",
+    "translation": "дом",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "بَيْض",
+    "translation": "яйца",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "بَيْضَاء",
+    "translation": "белая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "بَيْنَ",
+    "translation": "между",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "تَاسِع",
+    "translation": "девятый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "تَاسِعَة",
+    "translation": "девятая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "تَأْشِيرَة خُرُوج",
+    "translation": "выездная виза",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "تَأْشِيرَة دُخُول",
+    "translation": "въездная виза",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "تَأْكِيد حَجْز",
+    "translation": "подтверждение бронирования",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "تَحْتَ",
+    "translation": "под",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "تَحْتَ الصِّفْر",
+    "translation": "ниже нуля",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "تَدْبِير مَنْزِلِيّ",
+    "translation": "домоводство",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "تَذَاكِر",
+    "translation": "билеты",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "تَذْكِرَة",
+    "translation": "билет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "تَرْك",
+    "translation": "оставление",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "تَرَكَ",
+    "translation": "оставлять",
+    "isNoun": false,
+    "pastForm": "تَرَكَ",
+    "presentForm": "يَتْرُكُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "تُرْكِيّ",
+    "translation": "турок, турецкий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "تُرْكِيَا",
+    "translation": "Турция",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "تَزَوَّجَ",
+    "translation": "жениться",
+    "isNoun": false,
+    "pastForm": "تَزَوَّجَ",
+    "presentForm": "يَتَزَوَّجُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "تِسْعَة",
+    "translation": "девять",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "تِسْعَةَ عَشَر",
+    "translation": "девятнадцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "تِسْعُون",
+    "translation": "девяносто",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "تَغَيَّبَ",
+    "translation": "отсутствовать",
+    "isNoun": false,
+    "pastForm": "تَغَيَّبَ",
+    "presentForm": "يَتَغَيَّبُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "تَفَضَّلْ",
+    "translation": "пожалуйста (входи / угощайся)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "تَقْرِيباً",
+    "translation": "примерно",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "تَقْرِير طِبِّيّ",
+    "translation": "медицинское заключение",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "تَكَلَّمَ",
+    "translation": "говорить",
+    "isNoun": false,
+    "pastForm": "تَكَلَّمَ",
+    "presentForm": "يَتَكَلَّمُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "تِلْفَاز",
+    "translation": "телевизор",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "تِلْكَ",
+    "translation": "та (указательное)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "تَلَوُّث",
+    "translation": "загрязнение",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "تَمْر",
+    "translation": "финики",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "ثَالِث",
+    "translation": "третий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "ثَالِثَ عَشَرَ",
+    "translation": "тринадцатый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "ثَالِثَة",
+    "translation": "третья",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "ثَامِن",
+    "translation": "восьмой",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "ثَامِنَة",
+    "translation": "восьмая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "ثَانِي",
+    "translation": "второй",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "ثَانِي عَشَرَ",
+    "translation": "двенадцатый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "ثَقَافَة إِسْلَامِيَّة",
+    "translation": "исламская культура",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "ثَلَاث",
+    "translation": "три",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "الثُّلَاثَاء",
+    "translation": "вторник",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "ثَلَاثَة",
+    "translation": "три",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "ثَلَاثَةَ عَشَر",
+    "translation": "тринадцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "ثَلَاثُون",
+    "translation": "тридцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "ثَلَّاجَة",
+    "translation": "холодильник",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "ثَمَانُون",
+    "translation": "восемьдесят",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "ثَمَانِيَة",
+    "translation": "восемь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "ثَمَانِيَةَ عَشَر",
+    "translation": "восемнадцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "ثَوْب",
+    "translation": "одежда (платье)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "ثَوْب الإِحْرَام",
+    "translation": "одежда ихрама",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "جَاءَ",
+    "translation": "приходить",
+    "isNoun": false,
+    "pastForm": "جَاءَ",
+    "presentForm": "يَجِيءُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "جَامِعَة",
+    "translation": "университет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "جِبَال",
+    "translation": "горы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "جَدّ",
+    "translation": "дед",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "جِدّاً",
+    "translation": "очень",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "جَدَّة",
+    "translation": "бабушка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "جَدْوَل دِرَاسِيّ",
+    "translation": "учебное расписание",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "جَزَاكَ اللَّهُ خَيْراً",
+    "translation": "да воздаст тебе Аллах благом",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "جَلَسَ",
+    "translation": "сидеть",
+    "isNoun": false,
+    "pastForm": "جَلَسَ",
+    "presentForm": "يَجْلِسُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "جُمَادَى الآخِرَة",
+    "translation": "Джумада аль-Ахира",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "جُمَادَى الأُولَى",
+    "translation": "Джумада аль-Уля",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "الجَمْرَة الكُبْرَى",
+    "translation": "Большой Джамрат (столб)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "جَمْع الطَّوَابِع",
+    "translation": "коллекционирование марок",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "جَمْعاً",
+    "translation": "вместе (объединяя)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "الجُمُعَة",
+    "translation": "пятница",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "جَمِيع",
+    "translation": "все",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "جَمِيلَة",
+    "translation": "красивая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "جَنَاح",
+    "translation": "отдел (крыло)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "جِنْسِيَّة",
+    "translation": "гражданство",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "وَثِيقَة جِنْسِيَّة",
+    "translation": "документ о гражданстве",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "جَنُوب",
+    "translation": "юг",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "الجَوّ",
+    "translation": "воздух (путешествие), погода",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "جَوَاز سَفَر",
+    "translation": "заграничный паспорт",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "جَوَّالَة",
+    "translation": "скауты (поход)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "جَوْعَان",
+    "translation": "голодный",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "حَادِيَة عَشْرَة",
+    "translation": "одиннадцатая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "حَارّ",
+    "translation": "горячий, жаркий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "حَاسُوب",
+    "translation": "компьютер",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "حَافِلَة",
+    "translation": "автобус",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "حَجَّ",
+    "translation": "совершать хадж",
+    "isNoun": false,
+    "pastForm": "حَجَّ",
+    "presentForm": "يَحُجُّ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "حَجْز",
+    "translation": "бронирование",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "حَرّ",
+    "translation": "жара",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "حِصَّة",
+    "translation": "урок, занятие",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "حِصَص",
+    "translation": "уроки, занятия",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "حَضَرَ",
+    "translation": "присутствовать, приходить",
+    "isNoun": false,
+    "pastForm": "حَضَرَ",
+    "presentForm": "يَحْضُرُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "حَقِيبَة",
+    "translation": "сумка, чемодан",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "حَلَقَ",
+    "translation": "брить",
+    "isNoun": false,
+    "pastForm": "حَلَقَ",
+    "presentForm": "يَحْلِقُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "حَلِيب",
+    "translation": "молоко",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "حَمَّام",
+    "translation": "ванная, туалет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "الحَمْدُ لِلَّهِ",
+    "translation": "хвала Аллаху",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "حَمْرَاء",
+    "translation": "красная",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "حَنْجَرَة",
+    "translation": "горло",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "حَوْلَ",
+    "translation": "вокруг",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "حَيّ",
+    "translation": "район",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "خَارِج",
+    "translation": "снаружи",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "خَامِس",
+    "translation": "пятый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "خَامِسَة",
+    "translation": "пятая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "خُبْز",
+    "translation": "хлеб",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "خَضْرَاء",
+    "translation": "зеленая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "خَضْرَاوَات",
+    "translation": "овощи",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "خَطّ الرُّقْعَة",
+    "translation": "шрифт рук'а",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "الخَطّ العَرَبِيّ",
+    "translation": "арабская каллиграфия",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "خَطُّ النَّسْخِ",
+    "translation": "шрифт насх",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "خُطُوط طَيَرَان",
+    "translation": "авиалинии",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "خَلَعَ",
+    "translation": "снимать (одежду)",
+    "isNoun": false,
+    "pastForm": "خَلَعَ",
+    "presentForm": "يَخْلَعُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "خَلْفَ",
+    "translation": "позади",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "خَمْس",
+    "translation": "пять",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "خَمْسَة",
+    "translation": "пять",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "خَمْسَةَ عَشَر",
+    "translation": "пятнадцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "خَمْسُونَ",
+    "translation": "пятьдесят",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "الخَمِيس",
+    "translation": "четверг",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "خِيَار",
+    "translation": "огурцы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "خِيَاطَة",
+    "translation": "шитье",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "خَيْراً",
+    "translation": "благо",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "خَيْمَة",
+    "translation": "палатка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "دَافِئ",
+    "translation": "теплый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "دَجَاج",
+    "translation": "курица",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "دَخَلَ",
+    "translation": "входить",
+    "isNoun": false,
+    "pastForm": "دَخَلَ",
+    "presentForm": "يَدْخُلُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "دِرَاسَة",
+    "translation": "учеба",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "دَرَجَةُ الحَرَارَة",
+    "translation": "температура",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "دَرَسَ",
+    "translation": "учиться",
+    "isNoun": false,
+    "pastForm": "دَرَسَ",
+    "presentForm": "يَدْرُسُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "دَرَّسَ",
+    "translation": "преподавать",
+    "isNoun": false,
+    "pastForm": "دَرَّسَ",
+    "presentForm": "يُدَرِّسُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "دَفْتَر",
+    "translation": "тетрадь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "دَوَاء",
+    "translation": "лекарство",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "دَوْر",
+    "translation": "этаж, очередь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "دِينَار",
+    "translation": "динар",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "ذَاهِب",
+    "translation": "идущий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "ذَبَحَ",
+    "translation": "резать (животное)",
+    "isNoun": false,
+    "pastForm": "ذَبَحَ",
+    "presentForm": "يَذْبَحُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "ذَلِكَ",
+    "translation": "тот, это",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "ذَهَبَ",
+    "translation": "идти",
+    "isNoun": false,
+    "pastForm": "ذَهَبَ",
+    "presentForm": "يَذْهَبُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "ذُو الحِجَّة",
+    "translation": "Зуль-Хиджа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "ذُو القَعْدَة",
+    "translation": "Зуль-Каада",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "رَأْس",
+    "translation": "голова",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "رُؤُوس",
+    "translation": "головы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "رَابِع",
+    "translation": "четвертый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "رَابِعَة",
+    "translation": "четвертая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "رَاحَة",
+    "translation": "отдых",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "رَأْي",
+    "translation": "мнение",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "رَأَى",
+    "translation": "видеть",
+    "isNoun": false,
+    "pastForm": "رَأَى",
+    "presentForm": "يَرَى"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "رَبِيع الآخِر",
+    "translation": "Раби аль-Ахир",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "رَبِيع الأَوَّل",
+    "translation": "Раби аль-Авваль",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "رَجَب",
+    "translation": "Раджаб",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "رَجُل",
+    "translation": "мужчина, человек",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "رِحْلَات",
+    "translation": "поездки, рейсы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "رِحْلَة",
+    "translation": "поездка, рейс",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "رِحْلَة سَعِيدَة",
+    "translation": "счастливого пути",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "رَخِيص",
+    "translation": "дешевый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "الرَّسُول",
+    "translation": "Посланник",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "رَقْم",
+    "translation": "номер",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "رَكِبَ",
+    "translation": "садиться (в транспорт)",
+    "isNoun": false,
+    "pastForm": "رَكِبَ",
+    "presentForm": "يَرْكَبُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "رَكْعَة",
+    "translation": "ракаат",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "رَمَضَان",
+    "translation": "Рамадан",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "رَمَى",
+    "translation": "бросать",
+    "isNoun": false,
+    "pastForm": "رَمَى",
+    "presentForm": "يَرْمِي"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "رِيَاضَة",
+    "translation": "спорт",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "رِيَاضِيَّات",
+    "translation": "математика",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "رِيَال",
+    "translation": "риял",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "زَارَ",
+    "translation": "посещать, навещать",
+    "isNoun": false,
+    "pastForm": "زَارَ",
+    "presentForm": "يَزُورُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "زَرْقَاء",
+    "translation": "синяя",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "زَكَاة الفِطْر",
+    "translation": "закят аль-фитр",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "زُكَام",
+    "translation": "насморк",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "الزَّوَال",
+    "translation": "зенит",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "زَوْج",
+    "translation": "муж",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "زَوْجَة",
+    "translation": "жена",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "زِيَادَة الوَزْن",
+    "translation": "прибавка в весе",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "زِيَارَة",
+    "translation": "визит",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "سَابِع",
+    "translation": "седьмой",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "سَابِعَة",
+    "translation": "седьмая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "سَادِس",
+    "translation": "шестой",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "سَادِسَة",
+    "translation": "шестая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "سَاعَات",
+    "translation": "часы (мн.ч.)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "السَّاعَة",
+    "translation": "час, часы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "سَاعَدَ",
+    "translation": "помогать",
+    "isNoun": false,
+    "pastForm": "سَاعَدَ",
+    "presentForm": "يُسَاعِدُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "سَافَرَ",
+    "translation": "путешествовать",
+    "isNoun": false,
+    "pastForm": "سَافَرَ",
+    "presentForm": "يُسَافِرُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "سِبَاحَة",
+    "translation": "плавание",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "سَبَب",
+    "translation": "причина",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "السَّبْت",
+    "translation": "суббота",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "سَبْعَة",
+    "translation": "семь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "سَبْعَةَ عَشَر",
+    "translation": "семнадцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "سَبْعُون",
+    "translation": "семьдесят",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "سِتَارَة",
+    "translation": "штора",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "سِتَّة",
+    "translation": "шесть",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "سِتَّةَ عَشَر",
+    "translation": "шестнадцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "سِتُّون",
+    "translation": "шестьдесят",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "سَجَّادَة",
+    "translation": "ковер",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "سَخَّان",
+    "translation": "водонагреватель",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "سُرُور",
+    "translation": "радость",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "سَرِير",
+    "translation": "кровать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "سَعَى",
+    "translation": "совершать сай, идти",
+    "isNoun": false,
+    "pastForm": "سَعَى",
+    "presentForm": "يَسْعَى"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "سَعْي الحَجّ",
+    "translation": "сай хаджа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "سَعِيداً",
+    "translation": "счастливым",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "سَفَر",
+    "translation": "путешествие",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "سُكَّر",
+    "translation": "сахар",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "سُكَّرِيّ",
+    "translation": "диабет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "سُكَّرِيَّات",
+    "translation": "сладости",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "سَكَنَ",
+    "translation": "проживать",
+    "isNoun": false,
+    "pastForm": "سَكَنَ",
+    "presentForm": "يَسْكُنُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "السَّلَامُ عَلَيْكُم",
+    "translation": "Мир вам",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُه",
+    "translation": "Мир вам, милость Аллаха и Его благословение",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "سَلَطَة",
+    "translation": "салат",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "سَلِيم",
+    "translation": "здоровый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "سَمَاء",
+    "translation": "небо",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "سَمِعَ",
+    "translation": "слышать",
+    "isNoun": false,
+    "pastForm": "سَمِعَ",
+    "presentForm": "يَسْمَعُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "سَمَك",
+    "translation": "рыба",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "سَمِين",
+    "translation": "полный, толстый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "سَنَة",
+    "translation": "год",
+    "isNoun": true,
+    "pluralForm": "سَنَوَات"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "سَوْدَاء",
+    "translation": "черная",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "سُوق",
+    "translation": "рынок",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "سَيَّارَة",
+    "translation": "автомобиль",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "شَاطِئ",
+    "translation": "пляж, берег",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "شَاهَدَ",
+    "translation": "смотреть, наблюдать",
+    "isNoun": false,
+    "pastForm": "شَاهَدَ",
+    "presentForm": "يُشَاهِدُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "شَاي",
+    "translation": "чай",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "شِتَاء",
+    "translation": "зима",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "شَجَرَة",
+    "translation": "дерево",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "شَخْص",
+    "translation": "человек, личность",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "شَدِيد",
+    "translation": "сильный",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "شَرَاب",
+    "translation": "напиток",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "شَرِبَ",
+    "translation": "пить",
+    "isNoun": false,
+    "pastForm": "شَرِبَ",
+    "presentForm": "يَشْرَبُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "شَرْق",
+    "translation": "восток",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "شَرِكَات",
+    "translation": "компании, фирмы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "شَرِكَة",
+    "translation": "компания, фирма",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "شُرُوق الشَّمْس",
+    "translation": "восход солнца",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "شَعْبَان",
+    "translation": "месяц Шаабан",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "شَعَرَ",
+    "translation": "чувствовать",
+    "isNoun": false,
+    "pastForm": "شَعَرَ",
+    "presentForm": "يَشْعُرُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "شَفَاكَ اللَّهُ",
+    "translation": "Да исцелит тебя Аллах",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "شِقَّة",
+    "translation": "квартира",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "شُكْراً",
+    "translation": "спасибо",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "شَمَال",
+    "translation": "север",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "الشَّمْس",
+    "translation": "солнце",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "شَهْر",
+    "translation": "месяц",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "شَوَّال",
+    "translation": "месяц Шавваль",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "شَوْط",
+    "translation": "круг (обхода)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "شَيْء",
+    "translation": "вещь, что-то",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "صَاع",
+    "translation": "са' (мера сыпучих тел)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "صَامَ",
+    "translation": "поститься",
+    "isNoun": false,
+    "pastForm": "صَامَ",
+    "presentForm": "يَصُومُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "صَبَاح",
+    "translation": "утро",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "صَحَافَة",
+    "translation": "журналистика, пресса",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "صُحُف",
+    "translation": "газеты",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "صَحِيح",
+    "translation": "правильный, верный",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "صَحِيفَة",
+    "translation": "газета",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "صُدَاع",
+    "translation": "головная боль",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "صَدْر",
+    "translation": "грудь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "صَدِيق",
+    "translation": "друг",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "صَدِيقَة",
+    "translation": "подруга",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "صَغِير",
+    "translation": "маленький",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "صَفّ دِرَاسِيّ",
+    "translation": "учебный класс",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "الصَّفَا",
+    "translation": "холм Сафа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "صَفَر",
+    "translation": "месяц Сафар",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "صِفْر",
+    "translation": "ноль",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "صَفْرَاء",
+    "translation": "желтая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "الصَّلَاة",
+    "translation": "молитва (намаз)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "صَلَاةُ العِيد",
+    "translation": "праздничная молитва",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "صَلَوَات",
+    "translation": "молитвы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "صَلَّى",
+    "translation": "молиться",
+    "isNoun": false,
+    "pastForm": "صَلَّى",
+    "presentForm": "يُصَلِّي"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+    "translation": "да благословит его Аллах и приветствует",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "صُورَة",
+    "translation": "картинка, фото",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "صَيْدَلَة",
+    "translation": "фармацевтика",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "صَيْدَلِيّ",
+    "translation": "фармацевт",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "صَيْف",
+    "translation": "лето",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "ضَابِط",
+    "translation": "офицер",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "ضَغْط",
+    "translation": "давление",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "ضَوْضَاء",
+    "translation": "шум",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "ضُيُوف",
+    "translation": "гости",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "طَائِرَة",
+    "translation": "самолет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "طَابِع",
+    "translation": "марка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "طَافَ",
+    "translation": "совершать обход (таваф)",
+    "isNoun": false,
+    "pastForm": "طَافَ",
+    "presentForm": "يَطُوفُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "طَالِب",
+    "translation": "студент",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "طَالِبَة",
+    "translation": "студентка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "طِبّ",
+    "translation": "медицина",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "طَبْخ",
+    "translation": "готовка, кулинария",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "طَبَق بَيْض",
+    "translation": "лоток яиц",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "طَبِيب",
+    "translation": "врач (муж.)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "طَبِيبَة",
+    "translation": "врач (жен.)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "طَبِيب أَسْنَان",
+    "translation": "дантист",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "طَبِيب أَنْف وَأُذُن وَحَنْجَرَة",
+    "translation": "ЛОР (ухо-горло-нос)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "طَعَام",
+    "translation": "еда",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "طِفْل",
+    "translation": "ребенок",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "طُلَّاب",
+    "translation": "студенты",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "طَلَبَ",
+    "translation": "просить, заказывать",
+    "isNoun": false,
+    "pastForm": "طَلَبَ",
+    "presentForm": "يَطْلُبُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "طَلَب",
+    "translation": "просьба, заказ",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "طَمَاطِم",
+    "translation": "помидоры",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "طَوَابِع",
+    "translation": "марки",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "طَوَاف الإِفَاضَة",
+    "translation": "обход Ифада",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "طَوَاف الوَدَاع",
+    "translation": "прощальный обход",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "طَوِيلَة",
+    "translation": "длинная",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "طَيَّار",
+    "translation": "пилот",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "طَيَرَان",
+    "translation": "авиация",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "الظُّهْر",
+    "translation": "полуденная молитва (зухр)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "عَادَ",
+    "translation": "возвращаться",
+    "isNoun": false,
+    "pastForm": "عَادَ",
+    "presentForm": "يَعُودُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "عَاشِر",
+    "translation": "десятый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "عَاشِرَة",
+    "translation": "десятая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "عَاصِمَة",
+    "translation": "столица",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "عَام دِرَاسِيّ",
+    "translation": "учебный год",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "عَرَبِيّ",
+    "translation": "арабский",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "عَرَفَات",
+    "translation": "Арафат",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "عَرَفَة",
+    "translation": "Арафа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "عَشَاء",
+    "translation": "ужин",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "العِشَاء",
+    "translation": "ночная молитва (иша)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "عَشَرَة",
+    "translation": "десять",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "عِشْرُون",
+    "translation": "двадцать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "العَصْر",
+    "translation": "послеполуденная молитва (аср)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "عُطْلَة",
+    "translation": "каникулы, выходной",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "عُطْلَة الأُسْبُوع",
+    "translation": "выходные (конец недели)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "عُطْلَة الصَّيْف",
+    "translation": "летние каникулы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "عُطْلَة سَعِيدَة",
+    "translation": "счастливых каникул",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "عَفْواً",
+    "translation": "пожалуйста, не за что",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "عَلَى",
+    "translation": "на",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "عُلْبَة مِلْح",
+    "translation": "пачка соли",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "عِلْمِيَّة",
+    "translation": "научная",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "عُلُوم",
+    "translation": "науки",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "عَمّ",
+    "translation": "дядя (по отцу)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "عَمَّة",
+    "translation": "тетя (по отцу)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "عُمْرَة",
+    "translation": "умра (малое паломничество)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "عُمْرَة مَقْبُولَة",
+    "translation": "принятой умры",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "عَمَل",
+    "translation": "работа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "عَمِلَ",
+    "translation": "работать",
+    "isNoun": false,
+    "pastForm": "عَمِلَ",
+    "presentForm": "يَعْمَلُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "عِنَب",
+    "translation": "виноград",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "عِنْدَ",
+    "translation": "у, около",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "عِيد",
+    "translation": "праздник",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "عِيد الأَضْحَى",
+    "translation": "праздник жертвоприношения",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "عِيد الفِطْر",
+    "translation": "праздник разговения",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "غَادَرَ",
+    "translation": "покидать",
+    "isNoun": false,
+    "pastForm": "غَادَرَ",
+    "presentForm": "يُغَادِرُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "غَال",
+    "translation": "дорогой (о цене)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "غَداً",
+    "translation": "завтра",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "غَدَاء",
+    "translation": "обед",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "غَرْب",
+    "translation": "запад",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "غُرَف",
+    "translation": "комнаты",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "غُرْفَة",
+    "translation": "комната",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "غُرْفَة جُلُوس",
+    "translation": "гостиная",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "غُرْفَة نَوْم",
+    "translation": "спальня",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "غُرُوب الشَّمْس",
+    "translation": "закат солнца",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "غَسَلَ",
+    "translation": "мыть, стирать",
+    "isNoun": false,
+    "pastForm": "غَسَلَ",
+    "presentForm": "يَغْسِلُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "فَاكِهَة",
+    "translation": "фрукт",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "فَتَحَ",
+    "translation": "открывать",
+    "isNoun": false,
+    "pastForm": "فَتَحَ",
+    "presentForm": "يَفْتَحُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "الفَجْر",
+    "translation": "утренняя молитва (фаджр)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "فَحَصَ",
+    "translation": "осматривать, проверять",
+    "isNoun": false,
+    "pastForm": "فَحَصَ",
+    "presentForm": "يَفْحَصُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "فُرْن",
+    "translation": "печь, духовка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "فُرُوسِيَّة",
+    "translation": "верховая езда",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "فَرِيق",
+    "translation": "команда",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "فَصْلُ الخَرِيف",
+    "translation": "осень",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "فَصْلُ الرَّبِيعِ",
+    "translation": "весна",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "فَصْلُ الشِّتَاء",
+    "translation": "зима (сезон)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "فَضَّلَ",
+    "translation": "предпочитать",
+    "isNoun": false,
+    "pastForm": "فَضَّلَ",
+    "presentForm": "يُفَضِّلُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "فُطُور",
+    "translation": "завтрак",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "فَعَلَ",
+    "translation": "делать",
+    "isNoun": false,
+    "pastForm": "فَعَلَ",
+    "presentForm": "يَفْعَلُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "فَقَدَ",
+    "translation": "терять",
+    "isNoun": false,
+    "pastForm": "فَقَدَ",
+    "presentForm": "يَفْقِدُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "فُقَرَاء",
+    "translation": "бедняки",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "فِكْرَة طَيِّبَة",
+    "translation": "хорошая идея",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "فُنْدُق",
+    "translation": "гостиница",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "فَوَاكِه",
+    "translation": "фрукты",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "فَوْقَ",
+    "translation": "над",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "فِي",
+    "translation": "в",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "فِي الخَارِج",
+    "translation": "снаружи, за границей",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "فِي أَيِّ ؟",
+    "translation": "в каком?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "قَابَلَ",
+    "translation": "встречать",
+    "isNoun": false,
+    "pastForm": "قَابَلَ",
+    "presentForm": "يُقَابِلُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "قَادِم",
+    "translation": "прибывающий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "قَاسَ",
+    "translation": "измерять",
+    "isNoun": false,
+    "pastForm": "قَاسَ",
+    "presentForm": "يَقِيسُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "قَالَ",
+    "translation": "сказать",
+    "isNoun": false,
+    "pastForm": "قَالَ",
+    "presentForm": "يَقُولُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "قَبْلَ",
+    "translation": "до, перед",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "قَرَأَ",
+    "translation": "читать",
+    "isNoun": false,
+    "pastForm": "قَرَأَ",
+    "presentForm": "يَقْرَأُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "قِرَاءَة",
+    "translation": "чтение",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "القُرْآن",
+    "translation": "Коран",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "قَرِيب",
+    "translation": "близкий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "قَرْيَة",
+    "translation": "деревня",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "قِسْم",
+    "translation": "отдел, часть",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "قَصْراً",
+    "translation": "сокращенно",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "قَصِير",
+    "translation": "короткий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "قَضَى",
+    "translation": "проводить время",
+    "isNoun": false,
+    "pastForm": "قَضَى",
+    "presentForm": "يَقْضِي"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "قِطَار",
+    "translation": "поезд",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "قَلْب",
+    "translation": "сердце",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "قَلَم",
+    "translation": "ручка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "قَلِيل",
+    "translation": "мало",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "قُمْصَان",
+    "translation": "рубашки",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "قَمِيص",
+    "translation": "рубашка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "قَهْوَة",
+    "translation": "кофе",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "ـكَ",
+    "translation": "твой, тебя (м.р.)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "ـكِ",
+    "translation": "твой, тебя (ж.р.)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "كَانَ",
+    "translation": "быть",
+    "isNoun": false,
+    "pastForm": "كَانَ",
+    "presentForm": "يَكُونُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "كَبِير",
+    "translation": "большой",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "كِتَاب",
+    "translation": "книга",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "كِتَابُ قِرَاءَةٍ",
+    "translation": "книга для чтения",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "كِتَابُ قَوَاعِدٍ",
+    "translation": "учебник грамматики",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "كُتُب",
+    "translation": "книги",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "كَتَبَ",
+    "translation": "писать",
+    "isNoun": false,
+    "pastForm": "كَتَبَ",
+    "presentForm": "يَكْتُبُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "كُتُبٌ إِسْلَامِيَّة",
+    "translation": "исламские книги",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "كُتُبٌ عِلْمِيَّة",
+    "translation": "научные книги",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "كَثِير",
+    "translation": "много",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "كُرَةُ قَدَم",
+    "translation": "футбол",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "كَسْلَانُ",
+    "translation": "ленивый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "الكَعْبَة",
+    "translation": "Кааба",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "كَلِمَات",
+    "translation": "слова",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "كُلّ",
+    "translation": "каждый, весь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "كُلِّيَّة",
+    "translation": "факультет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "كُلِّيَّةُ التَّرْبِيَة",
+    "translation": "педагогический факультет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "كُلِّيَّةُ الطِّبّ",
+    "translation": "медицинский факультет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "كُلِّيَّةُ التَّمْرِيض",
+    "translation": "факультет сестринского дела",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "كُلِّيَّةُ الصَّيْدَلَة",
+    "translation": "фармацевтический факультет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "كُلِّيَّةُ الطَّيَرَان",
+    "translation": "авиационный факультет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "كُلِّيَّةُ الهَنْدَسَة",
+    "translation": "инженерный факультет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "كَمْ ؟",
+    "translation": "сколько?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "كَنَسَ",
+    "translation": "подметать",
+    "isNoun": false,
+    "pastForm": "كَنَسَ",
+    "presentForm": "يَكْنُسُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "كَوَى",
+    "translation": "гладить (одежду)",
+    "isNoun": false,
+    "pastForm": "كَوَى",
+    "presentForm": "يَكْوِي"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "كَيْفَ ؟",
+    "translation": "как?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "كَيْفَ حَالُكَ",
+    "translation": "как твои дела?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "لِ",
+    "translation": "для (предлог)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "لِ ( التَّعْلِيل )",
+    "translation": "чтобы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "لَا ( جَوَابِيَّة )",
+    "translation": "нет (ответ)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "لَا ( نَافِيَة )",
+    "translation": "не (отрицание)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "لَا ( نَاهِيَة )",
+    "translation": "не (запрет)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "لَبِسَ",
+    "translation": "надевать",
+    "isNoun": false,
+    "pastForm": "لَبِسَ",
+    "presentForm": "يَلْبَسُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "لَبَّى",
+    "translation": "откликаться (произносить тальбию)",
+    "isNoun": false,
+    "pastForm": "لَبَّى",
+    "presentForm": "يُلَبِّي"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "لَحْم",
+    "translation": "мясо",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "لَدَى",
+    "translation": "у, при",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "لُغَة / لُغَات",
+    "translation": "язык / языки",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "لُغَةٌ عَرَبِيَّة",
+    "translation": "арабский язык",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "لَكِنْ",
+    "translation": "но",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "لِمَاذَا",
+    "translation": "почему",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "لَوْ سَمَحْتَ",
+    "translation": "если позволите, пожалуйста",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "لَوْحَة",
+    "translation": "доска, картина",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "لَوْن",
+    "translation": "цвет",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "لَيْسَ",
+    "translation": "не есть (отрицание)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "لَيْل",
+    "translation": "ночь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "لَيْلَة",
+    "translation": "ночь, одна ночь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "مِئَة",
+    "translation": "сто",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مُؤَجِّر",
+    "translation": "арендодатель",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مَا ( نَافِيَة )",
+    "translation": "не (отрицание)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مَا ؟",
+    "translation": "что?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مَا اسْمُكَ ؟",
+    "translation": "как тебя зовут?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مَا جِنْسِيَّتُكَ ؟",
+    "translation": "какое у тебя гражданство?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "مَا رَأْيُكَ ؟",
+    "translation": "каково твое мнение?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "مَا شَاءَ اللَّهُ !",
+    "translation": "Машааллах!",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "مَاء",
+    "translation": "вода",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "مَائِدَة",
+    "translation": "стол (с едой)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مَاذَا ؟",
+    "translation": "что?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "مُبْتَلّ",
+    "translation": "мокрый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "مُبَكِّراً",
+    "translation": "рано",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "مَتَاحِف",
+    "translation": "музеи",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "مُتَأَخِّراً",
+    "translation": "поздно",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "مَتَى",
+    "translation": "когда",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "مَجَلَّة",
+    "translation": "журнал",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "مُحَرَّم",
+    "translation": "месяц Мухаррам",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "مُخْتَبَر",
+    "translation": "лаборатория",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مُدَرِّس",
+    "translation": "учитель",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "مَدْرَسَة",
+    "translation": "школа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "مُدِير",
+    "translation": "директор",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "مَدِينَة",
+    "translation": "город",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "المَدِينَة المُنَوَّرَة",
+    "translation": "Медина",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "امْرَأَة / مَرْأَة",
+    "translation": "женщина",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "مُرَاسَلَة",
+    "translation": "переписка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "مَرْحَباً",
+    "translation": "добро пожаловать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "مَرْحَلَة",
+    "translation": "этап, стадия",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "مَرْحَلَةٌ ابْتِدَائِيَّة",
+    "translation": "начальная школа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "مَرْحَلَةٌ مُتَوَسِّطَة",
+    "translation": "средняя школа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "المَرْوَة",
+    "translation": "холм Марва",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "مَرِيض",
+    "translation": "больной",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "مُزْدَلِفَة",
+    "translation": "Муздалифа",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "مَزْرَعَة",
+    "translation": "ферма, деревня",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "مُسَافِر",
+    "translation": "путник, пассажир",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مُسْتَأْجِر",
+    "translation": "арендатор",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "مُسْتَشْفَى",
+    "translation": "больница",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "مَسْجِد",
+    "translation": "мечеть",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "المَسْجِدُ الحَرَام",
+    "translation": "Заповедная мечеть",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "المَسْجِدُ النَّبَوِيّ",
+    "translation": "Мечеть Пророка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مُشَاهَدَة",
+    "translation": "просмотр",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مُشْتَرِي",
+    "translation": "покупатель",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "مُشْكِلَة",
+    "translation": "проблема",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "مُصَلَّى",
+    "translation": "молельня",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "مُضِيفَة",
+    "translation": "стюардесса",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "مَطَار",
+    "translation": "аэропорт",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مَطْبَخ",
+    "translation": "кухня",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "مَطْعَم",
+    "translation": "ресторан, столовая",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "مَطْلُوب",
+    "translation": "требуется, итого (к оплате)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "مِظَلَّة",
+    "translation": "зонт",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مَعَ",
+    "translation": "с",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مَعَ السَّلَامَةِ",
+    "translation": "до свидания",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "مُعْتَدِل",
+    "translation": "умеренный",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "مُعْجَم",
+    "translation": "словарь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "مُعْجَمٌ عَرَبِيّ",
+    "translation": "арабский словарь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "مَعْرِض",
+    "translation": "выставка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "مِعْطَف",
+    "translation": "пальто",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "مُعَلِّم",
+    "translation": "учитель",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "مُعَلِّمَة",
+    "translation": "учительница",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "المَغْرِب",
+    "translation": "закат, молитва магриб",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "مُفِيد",
+    "translation": "полезный",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "مَقَامُ إِبْرَاهِيم",
+    "translation": "макам Ибрахима",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "مَكَان",
+    "translation": "место",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مَكَّة",
+    "translation": "Мекка",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "مَكْتَبَات",
+    "translation": "библиотеки",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "مَكْتَبَة",
+    "translation": "библиотека",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "مَلَابِس",
+    "translation": "одежда",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "مِلْح",
+    "translation": "соль",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "مُمَارَسَة",
+    "translation": "практика",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "مُمَرِّض",
+    "translation": "медбрат",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "مَنْ ؟",
+    "translation": "кто?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مِنْ",
+    "translation": "из, от",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مِنْ أَيْنَ ؟",
+    "translation": "откуда?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 3,
+    "dialogue": 1,
+    "arabic": "مِنْ فَضْلِكَ",
+    "translation": "пожалуйста",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "مُنَبِّه",
+    "translation": "будильник",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "مِنًى",
+    "translation": "Мина",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "مِهْنَة",
+    "translation": "профессия",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "مُهَنْدِس",
+    "translation": "инженер",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "مَوَادّ دِرَاسِيَّة",
+    "translation": "учебные предметы",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "مُوَافِق",
+    "translation": "согласен",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 13,
+    "dialogue": 1,
+    "arabic": "مُوَظَّف",
+    "translation": "служащий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "مَوْعِد",
+    "translation": "встреча, время",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "مِيقَات",
+    "translation": "микат",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "ـنَا",
+    "translation": "наш, нас (местоимение)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "نَامَ",
+    "translation": "спать",
+    "isNoun": false,
+    "pastForm": "نَامَ",
+    "presentForm": "يَنَامُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "نَتِيجَة",
+    "translation": "результат",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "نَحِيف",
+    "translation": "худой",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "نَصَحَ",
+    "translation": "советовать",
+    "isNoun": false,
+    "pastForm": "نَصَحَ",
+    "presentForm": "يَنْصَحُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "نِصْف",
+    "translation": "половина",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "نَظَّارَة",
+    "translation": "очки",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "نَظَرَ",
+    "translation": "смотреть",
+    "isNoun": false,
+    "pastForm": "نَظَرَ",
+    "presentForm": "يَنْظُرُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "نَعَمْ",
+    "translation": "да",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "نَقِيّ",
+    "translation": "чистый",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "نَهْر",
+    "translation": "река",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "ـهُ",
+    "translation": "его, ему",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "ـهَا",
+    "translation": "ее, ей",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "هَادِئ",
+    "translation": "спокойный, тихий",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "هَدْي",
+    "translation": "жертвенное животное (в хадже)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "هَذَا",
+    "translation": "этот",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "هَذِهِ",
+    "translation": "эта",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "هَلْ ؟",
+    "translation": "разве?, ли?",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 9,
+    "dialogue": 1,
+    "arabic": "هُنَا",
+    "translation": "здесь",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "هُنَاكَ",
+    "translation": "там",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "هَنْدَسَة",
+    "translation": "инженерия",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "هُوَ",
+    "translation": "он",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 11,
+    "dialogue": 1,
+    "arabic": "هَوَاء",
+    "translation": "воздух",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 12,
+    "dialogue": 1,
+    "arabic": "هِوَايَة",
+    "translation": "хобби",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "هِيَ",
+    "translation": "она",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "هَيَّا بِنَا",
+    "translation": "давайте, пошли",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "وَ",
+    "translation": "и",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "وَاحِد",
+    "translation": "один",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "وَاحِدَة",
+    "translation": "одна",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "وَالِد",
+    "translation": "отец",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "وَالِدَة",
+    "translation": "мать",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "وَجَبَات",
+    "translation": "приемы пищи",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 5,
+    "dialogue": 1,
+    "arabic": "وَجْبَة",
+    "translation": "прием пищи",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "وَزْن",
+    "translation": "вес",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "وَصَلَ",
+    "translation": "прибывать, достигать",
+    "isNoun": false,
+    "pastForm": "وَصَلَ",
+    "presentForm": "يَصِلُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 6,
+    "dialogue": 1,
+    "arabic": "وَضَعَ",
+    "translation": "класть",
+    "isNoun": false,
+    "pastForm": "وَضَعَ",
+    "presentForm": "يَضَعُ"
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "وَعَلَيْكُمُ السَّلَام",
+    "translation": "и вам мир",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 15,
+    "dialogue": 1,
+    "arabic": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُه",
+    "translation": "и вам мир, милость Аллаха и Его благословение",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "وَقْت",
+    "translation": "время",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 14,
+    "dialogue": 1,
+    "arabic": "وُقُوف",
+    "translation": "стояние (на Арафате)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "ـي",
+    "translation": "мой, меня",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "ـي ( النِّسْبَة )",
+    "translation": "суффикс принадлежности",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 1,
+    "dialogue": 1,
+    "arabic": "ـي ( المُخَاطَبَة )",
+    "translation": "суффикс 2 л. ед.ч. ж.р.",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 2,
+    "dialogue": 1,
+    "arabic": "يَا",
+    "translation": "о (обращение)",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 10,
+    "dialogue": 1,
+    "arabic": "يَمِين",
+    "translation": "направо",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "يَوْم",
+    "translation": "день",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 4,
+    "dialogue": 1,
+    "arabic": "يَوْمُ عُطْلَة",
+    "translation": "выходной день",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 8,
+    "dialogue": 1,
+    "arabic": "يَوْمُ عَمَل",
+    "translation": "рабочий день",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 1,
+    "chapter": 7,
+    "dialogue": 1,
+    "arabic": "يَوْمٌ دِرَاسِيّ",
+    "translation": "учебный день",
+    "isNoun": true
+  },
+  {
+    "bookVolume": 1,
+    "bookPart": 2,
+    "chapter": 16,
+    "dialogue": 1,
+    "arabic": "يَوْمُ عِيد",
+    "translation": "праздничный день",
+    "isNoun": true
+  }
+  ]
+}
+
+ 

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="description" content="Интерактивный словарь и тренажёр арабского языка Байна Йадайк.">
+
+  <!-- iOS PWA meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="DOSAM">
+  
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>DOSAM — Байна Йадайк</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <!-- Регистрация ServiceWorker для офлайн-режима -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker
+          .register(new URL('offline_service_worker.js', document.baseURI))
+          .catch((error) => console.warn('Offline cache registration failed:', error));
+      });
+    }
+  </script>
+
+  <!-- Фиксы Web Speech API (TTS) и AudioContext для iOS Safari -->
+  <script>
+    (function () {
+      var synth = window.speechSynthesis;
+      var arabicVoice = null;
+      var arabicText = /[؀-ۿ]/;
+
+      function isArabic(lang) {
+        return !!lang && lang.toLowerCase().indexOf('ar') === 0;
+      }
+
+      function pickArabicVoice() {
+        if (!synth) return;
+        var voices = synth.getVoices() || [];
+        arabicVoice =
+          voices.find(function (v) { return /^ar[-_]sa$/i.test(v.lang); }) ||
+          voices.find(function (v) { return isArabic(v.lang); }) ||
+          null;
+      }
+
+      if (synth) {
+        pickArabicVoice();
+        if (synth.addEventListener) {
+          synth.addEventListener('voiceschanged', pickArabicVoice);
+        }
+
+        var proto = window.SpeechSynthesis.prototype;
+        var originalSpeak = proto.speak;
+        var originalCancel = proto.cancel;
+        var current = null;
+
+        proto.speak = function (utterance) {
+          if (utterance && arabicText.test(utterance.text || '')) {
+            if (!arabicVoice) pickArabicVoice();
+            if (!utterance.voice || !isArabic(utterance.voice.lang)) {
+              if (arabicVoice) utterance.voice = arabicVoice;
+              utterance.lang = arabicVoice ? arabicVoice.lang : 'ar-SA';
+            }
+          }
+          current = utterance;
+          return originalSpeak.call(this, utterance);
+        };
+
+        proto.cancel = function () {
+          var utterance = current;
+          current = null;
+          originalCancel.call(this);
+          if (utterance && typeof utterance.onend === 'function') {
+            try { utterance.onend(new Event('end')); } catch (e) {}
+          }
+        };
+      }
+
+      // Разблокировка звука при первом касании (требование iOS Safari)
+      function unlockAudio() {
+        document.removeEventListener('touchstart', unlockAudio, true);
+        document.removeEventListener('touchend', unlockAudio, true);
+        document.removeEventListener('click', unlockAudio, true);
+
+        // 1. Разблокировка AudioContext
+        try {
+          var AudioCtx = window.AudioContext || window.webkitAudioContext;
+          if (AudioCtx) {
+            var ctx = new AudioCtx();
+            if (ctx.state === 'suspended') {
+              ctx.resume();
+            }
+          }
+        } catch (e) {}
+
+        // 2. Разблокировка SpeechSynthesis
+        if (synth && !synth.speaking && !synth.pending) {
+          var silent = new SpeechSynthesisUtterance(' ');
+          silent.volume = 0;
+          originalSpeak.call(synth, silent);
+        }
+      }
+
+      document.addEventListener('touchstart', unlockAudio, true);
+      document.addEventListener('touchend', unlockAudio, true);
+      document.addEventListener('click', unlockAudio, true);
+    })();
+  </script>
+
+  <!-- Загрузчик Flutter -->
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
