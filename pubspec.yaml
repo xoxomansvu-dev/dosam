@@ -1,0 +1,49 @@
+name: arabic_bainayadak
+description: "Интерактивный словарь и карточки для заучивания слов из курса Байна Йадайк."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Пакет для локального сохранения словаря (база данных)
+  shared_preferences: ^2.2.3
+  google_fonts: ^6.1.0        # Для шрифтов
+  flip_card: ^0.7.0          # Для 3D-переворота карточек
+  flutter_tts: 4.2.5        # Для озвучки арабских слов
+  encrypt: ^5.0.3            # Для шифрования резервных копий .bayna
+  file_picker: 10.3.10       # Для выбора файла при импорте
+  http: ^1.6.0
+  csv: ^8.0.0
+  pdf: ^3.11.1
+  printing: ^5.13.0
+  flutter_svg: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  # Ресурсы приложения
+  assets:
+    - assets/bainayadak_words.json
+    - assets/logo_dosam.svg
+    - assets/app_icon.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon.png"
+  min_sdk_android: 21
+  # Настройки для адаптивной иконки Android:
+  adaptive_icon_background: "#2C7A6B" # Фирменный зеленый фон
+  adaptive_icon_foreground: "assets/app_icon.png" # Логотип по центру с прозрачностью
